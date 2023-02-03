@@ -1,0 +1,108 @@
+html,
+body {
+    text-align: center;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 0.8rem;
+    margin: 0;
+    color: #393d41;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    padding-bottom: 35px;
+}
+
+
+h1,
+h4 {
+    text-align: center;
+    color: #25a2c3;
+}
+
+.container {
+    background-image: url('/assets/Image/banner.jpg');
+    padding: 50px;
+
+}
+
+button {
+    background-color: #f04c2f;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 7.5%;
+    padding: 12px 25px 12px 25px;
+    border: 0;
+
+}
+
+#sezione1 h4 {
+    margin: 5px;
+
+}
+
+#sezione1 p {
+    margin: 10px 10px 35px 10px;
+
+}
+
+#sezione1 img {
+    border-radius: 50%;
+}
+
+#sezione2 {
+    background-color: #f04c2f;
+    color: white;
+    margin-top: 5px;
+
+}
+
+#sezione2 h2 {
+    padding-top: 10px;
+}
+
+#sezione2 p {
+    margin: 20px;
+    padding-bottom: 25px;
+
+}
+
+.fig1 {
+    display: inline-block;
+    border: 1px solid #dee1e3;
+    margin: 20px;
+}
+
+.fig2 {
+
+    display: inline-block;
+    border: 1px solid #dee1e3;
+    margin-top: 20px;
+}
+
+.fig3 {
+    display: inline-block;
+    border: 1px solid #dee1e3;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #25a2c3;
+    color: white;
+
+}
+
+footer h2 {
+    border-top: 50px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer hr {
+    width: 300px
+}
